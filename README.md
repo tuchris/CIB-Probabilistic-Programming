@@ -1,1 +1,3 @@
 # CIB-Probabilistic-Programming
+
+Repo for presentation code, notebooks, etc...
